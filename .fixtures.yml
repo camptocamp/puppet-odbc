@@ -1,0 +1,4 @@
+fixtures:
+  repositories:
+  symlinks:
+    odbc: "#{source_dir}"
