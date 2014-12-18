@@ -1,6 +1,6 @@
 {
   "name": "camptocamp-odbc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Camptocamp",
   "summary": "Puppet ODBC module",
   "license": "Apache 2.0",
@@ -8,6 +8,7 @@
   "project_page": "https://github.com/camptocamp/puppet-odbc",
   "issues_url": "https://github.com/camptocamp/puppet-odbc/issues",
   "dependencies": [
+
   ],
   "requirements": [
     {
