@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "author": "Camptocamp",
   "summary": "Puppet ODBC module",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "source": "https://github.com/camptocamp/puppet-odbc",
   "project_page": "https://github.com/camptocamp/puppet-odbc",
   "issues_url": "https://github.com/camptocamp/puppet-odbc/issues",
